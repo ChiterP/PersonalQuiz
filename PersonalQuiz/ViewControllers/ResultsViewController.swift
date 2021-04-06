@@ -49,7 +49,7 @@ class ResultsViewController: UIViewController {
                 countCat += 1
             }
         
-            
+            sfsd
             
             print ("Собака \(countDog)")
             print ("Черепаха \(countTuryle)")
